@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Sat Aug 12 14:14:23 2023-->
+<file-format name="stateData" version="1.0">
+ <attribute type="giString" value="" name="description"/>
+ <attribute type="dmCellView" value="fulladder/Simulate_Fulladder2/schematic" name="design"/>
+ <attribute type="giBoolean" value="1" name="enabled"/>
+ <attribute type="giString" value="default" name="name"/>
+ <attribute type="giString" value="HSPICE" name="simulator"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>
